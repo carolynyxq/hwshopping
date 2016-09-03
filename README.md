@@ -1,0 +1,2 @@
+# hwshopping
+static pages
